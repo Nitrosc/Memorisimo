@@ -12,4 +12,4 @@ I did not really like the SRS approaches of most apps and places, I made this ap
 
 
 
-This app will be forever free but if you find my work helpful, you can [buy me a coffee]([www.buymeacoffee.com](https://ko-fi.com/memorisimo)) to support my efforts!
+This app will be forever free but if you find my work helpful, you can buy me a coffee at https://ko-fi.com/memorisimo to support my efforts!
